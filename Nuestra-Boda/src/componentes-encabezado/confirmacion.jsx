@@ -8,7 +8,7 @@ export default function ConfirmacionAsistencia() {
   const [enviando, setEnviando] = useState(false);
   const [confirmacion, setConfirmacion] = useState("");
 
-  const SCRIPT_URL = "https://script.google.com/macros/s/AKfycbxklU9PTlqxkcu9pBUfWYhByQZ_7kJWuFENeeQhlEW-C6eh2cVbTK3z2AbMJiWVL1ME/exec";
+  const SCRIPT_URL = "https://script.google.com/macros/s/AKfycbwu7TiJ7bq4i_Tal01Sc3TSc5oa7Tw2X7iKWCL3pvJaw4n4-JzunAu39ZJkpwNOkt2x/exec";
 
   const handleSubmit = async (e) => {
     e.preventDefault();
