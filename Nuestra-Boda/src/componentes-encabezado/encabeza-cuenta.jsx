@@ -251,7 +251,7 @@ const CuentaRegresiva = () => {
             sm:text-3xl
           "
         >
-          Sábado 10 de octubre de 2026 · 5:00 p.m.
+          Sábado 10 de octubre de 2026 
         </motion.p>
 
         {/* CONTADOR */}

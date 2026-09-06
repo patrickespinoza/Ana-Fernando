@@ -289,7 +289,7 @@ export default function Portada() {
                 sm:tracking-[0.4em]
               "
             >
-              10 · 10 · 2026
+              10 · OCTUBRE · 2026
             </p>
 
             <span
