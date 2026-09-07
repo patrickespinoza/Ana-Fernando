@@ -217,7 +217,7 @@ const FraseSeparacion = () => {
             className="
               mx-2
               font-cursiveDancing
-              text-[#F6CFC8]
+              text-[#FFFAFA]
             "
           >
             uno de los momentos
@@ -246,7 +246,7 @@ const FraseSeparacion = () => {
             mt-8
             font-cursiveDancing
             text-3xl
-            text-[#D7A29A]
+            text-[#FFFAFA]
 
             sm:text-4xl
           "

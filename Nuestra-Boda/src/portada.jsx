@@ -17,7 +17,7 @@ export default function Portada() {
           IMAGEN DE PORTADA
       ========================================= */}
       <img
-        src="/Portada.jpeg"
+        src="/Portada.jpg"
         alt="Ana Karen y Fernando"
         className="
           absolute
@@ -25,7 +25,7 @@ export default function Portada() {
           h-full
           w-full
           object-cover
-          object-center
+          object-[center_30%]
         "
       />
 
