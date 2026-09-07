@@ -16,7 +16,7 @@ const palette = {
   olive: "#787A62",
 };
 
-const albumCode = "MXat19tb26";
+const albumCode = "ES7e4c46f2";
 
 const fadeUp = {
   hidden: {
@@ -1260,7 +1260,7 @@ const Album = () => {
                       "
                     >
                       <img
-                        src="/qr.png"
+                        src="/qr.jpeg"
                         alt="Código QR del álbum compartido"
                         loading="lazy"
                         className="
