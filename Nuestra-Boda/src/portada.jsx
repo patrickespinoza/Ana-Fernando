@@ -17,7 +17,7 @@ export default function Portada() {
           IMAGEN DE PORTADA
       ========================================= */}
       <img
-        src="/Portada.jpg"
+        src="/Portada.png"
         alt="Ana Karen y Fernando"
         className="
           absolute
@@ -41,45 +41,16 @@ export default function Portada() {
           bottom-0
           h-[42%]
           bg-gradient-to-t
-          from-[#62644F]/95
-          via-[#787A62]/65
+          from-[#62644F]/80
+          via-[#787A62]/50
           via-55%
           to-transparent
         "
       />
 
-      {/* Toque blush muy sutil */}
-      <div
-        className="
-          pointer-events-none
-          absolute
-          -bottom-24
-          -right-20
-          h-72
-          w-72
-          rounded-full
-          bg-[#D7A29A]/20
-          blur-[90px]
-        "
-      />
 
-      {/* =========================================
-          MARCO FINO
-      ========================================= */}
-      <div
-        className="
-          pointer-events-none
-          absolute
-          inset-4
-          z-10
-          rounded-[2rem]
-          border
-          border-white/35
 
-          sm:inset-7
-          sm:rounded-[2.5rem]
-        "
-      />
+
 
       {/* =========================================
           NOMBRES Y FECHA
