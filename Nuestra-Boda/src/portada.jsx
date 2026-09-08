@@ -17,7 +17,7 @@ export default function Portada() {
           IMAGEN DE PORTADA
       ========================================= */}
       <img
-        src="/Portada.png"
+        src="/Portada2.png"
         alt="Ana Karen y Fernando"
         className="
           absolute
