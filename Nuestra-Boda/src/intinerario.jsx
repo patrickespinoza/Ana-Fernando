@@ -6,37 +6,27 @@ import ConfirmacionAsistencia from "./componentes-encabezado/confirmacion";
 import CuentaRegresiva from "./componentes-encabezado/encabeza-cuenta";
 import Album from "./componentes-encabezado/Album";
 import FraseSeparacion from "./componentes-encabezado/Frasefinal";
+import Regalos from "./componentes-encabezado/mesadeRegalos";
 
 export default function Itinerario() {
 
   return (
     <div>
 
-{/* SECCIÓN VESTIMENTA */}
       <CuentaRegresiva/>
+
       <Novios />
       
+      <Celebracion/>
 
-        <Celebracion/>
+       <Album/>
 
-        <Album/>
-
-        
-
-      
-
-    
-
-      {/* SECCIÓN ITINERARIO */}
       <Intinerario2/>
 
+      <Regalos/>
 
-  
+      <FraseSeparacion/>
 
-       
-<FraseSeparacion/>
-
-   
       <ConfirmacionAsistencia/>
     </div>
   );
